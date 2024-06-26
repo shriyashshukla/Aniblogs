@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Footer = () => {
+const CardList = () => {
   return (
-    <div>
-      
+    <div className={styles.container}>
+      cardList
     </div>
   )
 }
 
-export default Footer
+export default CardList

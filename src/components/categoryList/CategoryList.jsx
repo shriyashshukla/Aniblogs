@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Footer = () => {
+const CategoryList = () => {
   return (
-    <div>
+    <div className={styles.container}>
       
     </div>
   )
 }
 
-export default Footer
+export default CategoryList

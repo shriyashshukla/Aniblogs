@@ -3,10 +3,10 @@ import styles from "./navbar.module.css"
 
 const Navbar = () => {
   return (
-    <div>
+    <div className={styles.container}>
       this my nav bar
 
-      
+
     </div>
   )
 }
