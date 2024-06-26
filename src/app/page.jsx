@@ -7,29 +7,10 @@ const Page = () => {
       <Link href="/">
         <h1>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
-          ipsum odio dolore, nemo placeat adipisci amet, facere distinctio dicta
-          quis reprehenderit rem nobis quidem libero eaque dolor vitae ullam.
-          Dicta.
+          
         </h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui,
-          mollitia! Quisquam eos error explicabo odit aliquid, itaque,
-          temporibus cum voluptatum repellendus, labore pariatur deleniti eaque
-          illo accusamus optio perferendis similique!Lorem ipsum dolor sit amet,
-          consectetur adipisicing elit. Qui, mollitia! Quisquam eos error
-          explicabo odit aliquid, itaque, temporibus cum voluptatum repellendus,
-          labore pariatur deleniti eaque illo accusamus optio perferendis
-          similique!Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-          Qui, mollitia! Quisquam eos error explicabo odit aliquid, itaque,
-          temporibus cum voluptatum repellendus, labore pariatur deleniti eaque
-          illo accusamus optio perferendis similique!Lorem ipsum dolor sit amet,
-          consectetur adipisicing elit. Qui, mollitia! Quisquam eos error
-          explicabo odit aliquid, itaque, temporibus cum voluptatum repellendus,
-          labore pariatur deleniti eaque illo accusamus optio perferendis
-          similique!Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-          Qui, mollitia! Quisquam eos error explicabo odit aliquid, itaque,
-          temporibus cum voluptatum repellendus, labore pariatur deleniti eaque
-          illo accusamus optio perferendis similique!
+         lit. Qui, mollitia! Quisquam eos error
         </p>
       </Link>
     </div>
