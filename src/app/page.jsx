@@ -1,18 +1,31 @@
 import Link from "next/link";
 import React from "react";
 
+import CardList from "../components/cardList/CardList";
+import Category from "../components/categoryList/CategoryList"; 
+
+import Featured from "../components/featured/Featured";
+
+import Menu from "../components/menu/Menu";
+
 const Page = () => {
   return (
     <div>
-      <Link href="/">
-        <h1>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
-          
-        </h1>
-        <p>
-         lit. Qui, mollitia! Quisquam eos error
-        </p>
-      </Link>
+      <div className={styles.container}>
+     <Featured/>
+    <CategoryList/>
+
+    <div className={styles.content}>
+    <CardList/>
+    <Menu/>
+
+    </div>
+
+
+
+
+      </div>
+      
     </div>
   );
 };

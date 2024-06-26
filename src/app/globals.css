@@ -40,7 +40,6 @@ a {
   width: 100%;
   max-width: 1536px;
   margin: 0 auto; /* Center the wrapper horizontally */
-  background-color: cyan;
   padding: 20px; /* Adjust padding as needed */
   display: flex;
   flex-direction: column;
