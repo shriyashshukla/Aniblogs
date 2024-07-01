@@ -4,15 +4,16 @@ import CardList from "../components/cardList/CardList";
 import CategoryList from "../components/categoryList/CategoryList";
 import Featured from "../components/featured/Featured";
 import Menu from "../components/menu/Menu";
+import styles from './home.module.css'
 
 const Page = () => {
   return (
-    <div>
+    <div className={styles.container}>
       <div>
      <Featured/>
     <CategoryList/>
 
-    <div>
+    <div >
     <CardList/>
     <Menu/>
 
