@@ -1,8 +1,10 @@
 import React from 'react'
+import styles from "./featured.module.css"
+
 
 const Featured = () => {
   return (
-    <div>
+    <div className={styles.container}>
         this is my featured
       
     </div>
